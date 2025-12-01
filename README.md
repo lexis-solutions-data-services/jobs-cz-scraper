@@ -19,7 +19,24 @@ The **Jobs.cz Scraper** is an Apify actor that extracts job listings directly fr
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.4` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
+
+---
+
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `jobs-cz-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
 
 ---
 
